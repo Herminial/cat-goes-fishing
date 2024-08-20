@@ -38,5 +38,10 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   windows11
+   windows10
+   mac
+   online
+   pc
+   fullversionr
+   faq
