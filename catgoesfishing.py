@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Cat Goes Fishing Game for Windows PC.
 """
 
 __version__ = "0.1.0"
